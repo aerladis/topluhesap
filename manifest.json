@@ -1,5 +1,10 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/aerladis/topluhesap/releases/download/beta/nmtfin.exe",
-  "notes": "-Kılavuz Güncellemesi"
+  "version": "1.3.0",
+  "url": "https://github.com/aerladis/topluhesap/releases/download/beta/sonfin.exe",
+   "notes": [
+    "- PDF Kılavuz butonları eklendi",
+    "- GE / KIDS&TEENS klasör seçimi eklendi",
+    "- Oluşan CSV'yi tekrar düzenleme özelliği eklendi",
+    "- Önizleme panelinde kullanıcıları devre dışı bırakabilme özelliği eklendi"
+  ]
 }
